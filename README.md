@@ -1,1 +1,4 @@
 # Dissertation_code
+
+In these two files, the code can be seen that was used in the Dissertation of Bastiaan Nijman while part of the k3pi subgroup of the LHCb.
+In the Smearing file, the code can be seen that is created to smear the AmpGen generated data to recreate the resolution of the phase space variables as described in the thesis. In the mixing parameters file, the code can be seen that was used to fit gaussian to the results of the toy models, that were done using the k3pi-python-fitter. All the files that are necessary to run the codes can be found here: https://cernbox.cern.ch/s/LNH96EOsaGjlEvd. In here, the LHCb simulation files can be seen, the AmpGen generated data with the smeared files can be found and the results of the toy models fits on the Ampgen generated/smeared files can be found there. 
